@@ -1,0 +1,11 @@
+/home/anas/Projects/rabbitmqExperiment/Receive/bin/Debug/netcoreapp2.1/Receive.deps.json
+/home/anas/Projects/rabbitmqExperiment/Receive/bin/Debug/netcoreapp2.1/Receive.runtimeconfig.json
+/home/anas/Projects/rabbitmqExperiment/Receive/bin/Debug/netcoreapp2.1/Receive.runtimeconfig.dev.json
+/home/anas/Projects/rabbitmqExperiment/Receive/bin/Debug/netcoreapp2.1/Receive.dll
+/home/anas/Projects/rabbitmqExperiment/Receive/bin/Debug/netcoreapp2.1/Receive.pdb
+/home/anas/Projects/rabbitmqExperiment/Receive/obj/Debug/netcoreapp2.1/Receive.csprojAssemblyReference.cache
+/home/anas/Projects/rabbitmqExperiment/Receive/obj/Debug/netcoreapp2.1/Receive.csproj.CoreCompileInputs.cache
+/home/anas/Projects/rabbitmqExperiment/Receive/obj/Debug/netcoreapp2.1/Receive.AssemblyInfoInputs.cache
+/home/anas/Projects/rabbitmqExperiment/Receive/obj/Debug/netcoreapp2.1/Receive.AssemblyInfo.cs
+/home/anas/Projects/rabbitmqExperiment/Receive/obj/Debug/netcoreapp2.1/Receive.dll
+/home/anas/Projects/rabbitmqExperiment/Receive/obj/Debug/netcoreapp2.1/Receive.pdb
