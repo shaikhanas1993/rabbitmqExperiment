@@ -17,8 +17,8 @@ namespace NewTask
                     using(var connection = factory.CreateConnection())
                     using(var channel = connection.CreateModel())
                     {
-                        channel.QueueDeclare(queue: "task_queue",
-                                            durable: false,
+                        channel.QueueDeclare(queue: "task_queue1",
+                                            durable: true,
                                             exclusive: false,
                                             autoDelete: false,
                                             arguments: null);
@@ -28,9 +28,10 @@ namespace NewTask
 
                         var properties = channel.CreateBasicProperties();
                         properties.Persistent = true;
+                        channel.BasicQos(0, 1, false);
 
                         channel.BasicPublish(exchange: "",
-                                            routingKey: "task_queue",
+                                            routingKey: "task_queue1",
                                             basicProperties: properties,
                                             body: body);
                         Console.WriteLine(" [x] Sent {0}", message);

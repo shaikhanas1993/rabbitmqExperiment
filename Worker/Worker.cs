@@ -14,8 +14,8 @@ namespace Worker
             using (var connection = factory.CreateConnection())
             using (var channel = connection.CreateModel())
             {
-                   channel.QueueDeclare(queue: "task_queue",
-                                     durable: false,
+                   channel.QueueDeclare(queue: "task_queue1",
+                                     durable: true,
                                      exclusive: false,
                                      autoDelete: false,
                                      arguments: null);
@@ -30,11 +30,10 @@ namespace Worker
                         Thread.Sleep(dots * 1000);
 
                         Console.WriteLine(" [x] Done");
+                         channel.BasicAck(deliveryTag: ea.DeliveryTag, multiple: false);
                     };
-                    channel.BasicConsume(queue: "task_queue",
-                                        autoAck: true,
-                                        consumer: consumer);
-
+                    
+                    channel.BasicConsume(queue: "task_queue1", autoAck: false, consumer: consumer);
                                         
                     Console.WriteLine(" Press [enter] to exit.");
                     Console.ReadLine();      
