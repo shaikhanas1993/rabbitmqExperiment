@@ -1,0 +1,11 @@
+/home/anas/Projects/rabbitmqExperiment/NewTask/bin/Debug/netcoreapp2.1/NewTask.deps.json
+/home/anas/Projects/rabbitmqExperiment/NewTask/bin/Debug/netcoreapp2.1/NewTask.runtimeconfig.json
+/home/anas/Projects/rabbitmqExperiment/NewTask/bin/Debug/netcoreapp2.1/NewTask.runtimeconfig.dev.json
+/home/anas/Projects/rabbitmqExperiment/NewTask/bin/Debug/netcoreapp2.1/NewTask.dll
+/home/anas/Projects/rabbitmqExperiment/NewTask/bin/Debug/netcoreapp2.1/NewTask.pdb
+/home/anas/Projects/rabbitmqExperiment/NewTask/obj/Debug/netcoreapp2.1/NewTask.csprojAssemblyReference.cache
+/home/anas/Projects/rabbitmqExperiment/NewTask/obj/Debug/netcoreapp2.1/NewTask.csproj.CoreCompileInputs.cache
+/home/anas/Projects/rabbitmqExperiment/NewTask/obj/Debug/netcoreapp2.1/NewTask.AssemblyInfoInputs.cache
+/home/anas/Projects/rabbitmqExperiment/NewTask/obj/Debug/netcoreapp2.1/NewTask.AssemblyInfo.cs
+/home/anas/Projects/rabbitmqExperiment/NewTask/obj/Debug/netcoreapp2.1/NewTask.dll
+/home/anas/Projects/rabbitmqExperiment/NewTask/obj/Debug/netcoreapp2.1/NewTask.pdb

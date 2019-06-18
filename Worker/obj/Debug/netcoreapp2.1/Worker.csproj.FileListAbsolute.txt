@@ -1,0 +1,11 @@
+/home/anas/Projects/rabbitmqExperiment/Worker/obj/Debug/netcoreapp2.1/Worker.csprojAssemblyReference.cache
+/home/anas/Projects/rabbitmqExperiment/Worker/obj/Debug/netcoreapp2.1/Worker.csproj.CoreCompileInputs.cache
+/home/anas/Projects/rabbitmqExperiment/Worker/obj/Debug/netcoreapp2.1/Worker.AssemblyInfoInputs.cache
+/home/anas/Projects/rabbitmqExperiment/Worker/obj/Debug/netcoreapp2.1/Worker.AssemblyInfo.cs
+/home/anas/Projects/rabbitmqExperiment/Worker/bin/Debug/netcoreapp2.1/Worker.deps.json
+/home/anas/Projects/rabbitmqExperiment/Worker/bin/Debug/netcoreapp2.1/Worker.runtimeconfig.json
+/home/anas/Projects/rabbitmqExperiment/Worker/bin/Debug/netcoreapp2.1/Worker.runtimeconfig.dev.json
+/home/anas/Projects/rabbitmqExperiment/Worker/bin/Debug/netcoreapp2.1/Worker.dll
+/home/anas/Projects/rabbitmqExperiment/Worker/bin/Debug/netcoreapp2.1/Worker.pdb
+/home/anas/Projects/rabbitmqExperiment/Worker/obj/Debug/netcoreapp2.1/Worker.dll
+/home/anas/Projects/rabbitmqExperiment/Worker/obj/Debug/netcoreapp2.1/Worker.pdb
